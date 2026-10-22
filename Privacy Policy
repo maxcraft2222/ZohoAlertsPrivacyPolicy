@@ -1,0 +1,149 @@
+# Zoho Alerts — Privacy Policy
+
+**Effective Date:** October 22, 2026  
+**Application:** Zoho Alerts Browser Extension  
+**Supported Browsers:** Google Chrome and Mozilla Firefox
+
+## 1. Introduction
+
+Zoho Alerts is a browser extension designed to provide real-time notifications and audible alerts for events within Zoho Desk.
+
+This Privacy Policy explains what information the extension processes, how that information is used, and the measures taken to protect user privacy.
+
+Zoho Alerts is designed exclusively for its intended notification and alerting functionality. It does not include advertising, behavioral tracking, or unrelated data-collection features.
+
+## 2. Information We Process
+
+Zoho Alerts processes limited information necessary to provide its functionality.
+
+**Authentication and User Information**
+
+- Extension identifiers and authentication credentials.
+- User profile information required to associate alerts with their intended recipients.
+- Connection and authentication status.
+
+**Ticket Notification Information**
+
+- Ticket numbers and subjects.
+- Ticket status, priority, assignment, and related changes.
+- Notification events and matching rules.
+- Alarm delivery and acknowledgement status.
+
+Ticket subjects may contain information entered by users of the connected ticketing system.
+
+The extension does not intentionally retrieve complete customer conversations, ticket attachments, or unrelated customer records for notification purposes.
+
+**User Preferences and Settings**
+
+- Notification rules and schedules.
+- Selected notification sounds.
+- Notification and alarm preferences.
+- Local timezone information used for time-dependent functionality.
+
+**Custom Audio Files**
+
+Users may import custom sounds for their notifications. These files may be stored locally and backed up to the notification service to support restoration after reinstalling the extension.
+
+**Technical and Operational Information**
+
+Limited technical information, including connection timestamps, application version, connection status, and technical network metadata, may be processed as necessary for authentication, troubleshooting, security, and reliable delivery.
+
+## 3. How Information Is Used
+
+The information processed by Zoho Alerts is used exclusively to:
+
+- Authenticate and maintain authorized extension connections.
+- Evaluate notification rules and schedules.
+- Deliver ticket notifications and audible alarms.
+- Track acknowledgement and delivery status.
+- Maintain notification history.
+- Save and restore user settings and custom sounds.
+- Diagnose technical problems and maintain service security.
+
+Information is not used for targeted advertising, behavioral profiling, or unrelated marketing activities.
+
+## 4. Local Storage
+
+Zoho Alerts uses browser-provided storage to maintain authentication information, preferences, custom audio, and notification-related data.
+
+The extension displays a history of up to ten recent alerts.
+
+Removing the extension generally removes its locally stored data, subject to the browser's storage behavior. Data previously synchronized with the notification service is managed separately.
+
+## 5. Information Transmission and Security
+
+Zoho Alerts communicates with its associated notification service to exchange authentication information, configuration settings, notification events, acknowledgements, and optional custom sound backups.
+
+Communications use encrypted connections.
+
+Access to notification functionality is controlled through authentication credentials and server-side authorization.
+
+Reasonable technical and organizational measures are used to protect information against unauthorized access, alteration, and disclosure.
+
+No electronic storage or transmission method can guarantee absolute security.
+
+## 6. Data Retention
+
+Information is retained only as necessary for the extension's intended functionality and associated operational requirements.
+
+- Raw ticketing-system webhook records are subject to a 21-day retention policy.
+- Recent notification history is maintained locally for user convenience.
+- Configuration settings and custom sound backups may remain available to support continued use and restoration.
+- Operational records may be retained for troubleshooting, security, and service administration.
+
+Information may be deleted when no longer required, upon an authorized deletion request where applicable, or according to established retention procedures.
+
+## 7. Data Sharing
+
+Zoho Alerts does not sell user information.
+
+Information may be processed by systems and service providers necessary to deliver the extension's functionality.
+
+Access to operational information is limited to authorized personnel and systems with a legitimate administrative or technical need.
+
+Information may also be disclosed where legally required.
+
+## 8. User Control and Data Deletion
+
+Users may manage notification preferences, notification rules, schedules, and custom sounds through the extension.
+
+Users may disconnect or uninstall the extension at any time.
+
+For requests involving information retained outside the browser, including account-associated records or custom sound backups, users may contact the application operator or their organization's authorized administrator.
+
+Such requests will be handled according to applicable organizational policies and legal requirements.
+
+## 9. Browser Permissions
+
+Zoho Alerts requests browser permissions necessary to provide its advertised functionality.
+
+These permissions support:
+
+- Saving extension settings and preferences.
+- Displaying desktop notifications.
+- Playing notification sounds.
+- Maintaining reliable background connections.
+- Scheduling background tasks and critical-alert reminders.
+- Storing imported custom audio.
+- Communicating with the authorized notification service.
+
+The extension does not request access to general browsing history, saved passwords, or unrelated website content.
+
+## 10. Children's Privacy
+
+Zoho Alerts is intended for professional and organizational use.
+
+It is not designed for children and does not intentionally collect information from children for independent consumer use.
+
+## 11. Changes to This Policy
+
+This Privacy Policy may be updated to reflect changes in application functionality, data-handling practices, or applicable requirements.
+
+The effective date will be revised when material changes are made.
+
+## 12. Contact and Privacy Requests
+
+Questions concerning this Privacy Policy or requests relating to personal information may be directed to the application operator or the organization's designated privacy contact.
+
+**Application Operator:** Ravenslough Extensions
+**Privacy Contact:** ravenslough.extensions@gmail.com
